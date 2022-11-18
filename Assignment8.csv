@@ -1,0 +1,292 @@
+﻿EmployeeName,Department,City,Latitude,Longitude,Distance
+AdventureWorks,,,47.642275,-122.136626,0
+"Ken, Sánchez",Executive,Newport Hills,47.59910267,-122.2810248,7.374756876
+"Terri, Duffy",Engineering,Renton,47.51704376,-122.2500079,10.14602781
+"Roberto, Tamburello",Engineering,Redmond,47.6393755,-122.2771541,6.564451845
+"Rob, Walters",Tool Design,Minneapolis,45.01642026,-93.36550225,1380.415239
+"Gail, Erickson",Engineering,Bellevue,47.57251681,-122.3262548,10.08553787
+"Jossef, Goldberg",Engineering,Renton,47.40789645,-122.1155866,16.22187873
+"Dylan, Miller",Research and Development,Kenmore,47.75734179,-122.2415075,9.333966877
+"Diane, Margheim",Research and Development,Everett,47.93224661,-122.091665,20.14260325
+"Gigi, Matthew",Research and Development,Bellevue,47.59632688,-122.1796099,3.756035214
+"Michael, Raheem",Research and Development,San Francisco,37.84372911,-122.3472792,676.4470607
+"Ovidiu, Cracium",Tool Design,Kenmore,47.70958445,-122.27818,8.077645687
+"Thierry, D'Hers",Tool Design,Bothell,47.78699219,-122.1646446,10.08306389
+"Janice, Galvin",Tool Design,Redmond,47.73951833,-122.0329173,8.278719153
+"Michael, Sullivan",Engineering,Renton,47.39840538,-122.2500079,17.66345101
+"Sharon, Salavaria",Engineering,Renton,47.4411152,-122.0789263,14.15680033
+"David, Bradley",Marketing,Redmond,47.62506938,-122.2405186,4.995004343
+"Kevin, Brown",Marketing,Everett,47.99463964,-122.0550045,24.6387518
+"John, Wood",Marketing,Redmond,47.74428703,-121.9718581,10.42766481
+"Mary, Dempsey",Marketing,Bellevue,47.56299279,-122.0207447,7.701805739
+"Wanida, Benshoof",Marketing,Sammamish,47.67520819,-121.9673253,8.223139991
+"Terry, Eminhizer",Marketing,Bellevue,47.68680514,-122.1307283,3.088715959
+"Sariya, Harnpadoungsataya",Marketing,Everett,48.01383749,-122.0794449,25.80812694
+"Mary, Gibson",Marketing,Everett,48.02343642,-122.3238482,27.73672179
+"Jill, Williams",Marketing,Everett,47.9228938,-122.2579839,20.19411675
+"James, Hamilton",Production,Monroe,47.81776507,-121.902669,16.30688118
+"Peter, Krebs",Production Control,Bellevue,47.639185,-122.0940671,1.998554855
+"Jo, Brown",Production,Duvall,47.81005032,-121.7856659,20.04996937
+"Guy, Gilbert",Production,Monroe,47.81776507,-121.8782861,17.087824
+"Mark, McArthur",Production,Redmond,47.75859315,-122.3015778,11.12475787
+"Britta, Simon",Production,Edmonds,47.7715019,-122.4355282,16.55253961
+"Margie, Shoop",Production,Edmonds,47.76194282,-122.3498662,12.93247248
+"Rebecca, Laszlo",Production,Bellevue,47.68680514,-122.1062875,3.386614941
+"Annik, Stahl",Production,Seattle,47.5653032,-122.2321354,6.942045361
+"Suchitra, Mohan",Production,Bellevue,47.65347105,-122.3140344,8.318297725
+"Brandon, Heidepriem",Production,Redmond,47.70136868,-122.0817647,4.818826987
+"Jose, Lugo",Production,Seattle,47.67479099,-122.3544654,10.41289722
+"Chris, Okelberry",Production,Redmond,47.6393755,-122.2160949,3.715884253
+"Kim, Abercrombie",Production,Carnation,47.69379395,-121.938454,9.909316042
+"Ed, Dudenhoefer",Production,Seattle,47.60814625,-122.4645624,15.49664733
+"JoLynn, Dobney",Production,Seattle,47.55578253,-122.2076694,6.835630978
+"Bryan, Baker",Production,Monroe,47.83211614,-121.9636265,15.39562513
+"James, Kramer",Production,Monroe,47.88473673,-122.0855413,16.91927394
+"Nancy, Anderson",Production,Sammamish,47.67520819,-122.1992024,3.702363009
+"Simon, Rapier",Production,Duvall,47.79095494,-121.9440031,13.64420802
+"Thomas, Michaels",Production,Edmonds,47.79062006,-122.4600031,18.23049835
+"Eugene, Kogan",Production,Duvall,47.68115653,-121.8831042,12.13353261
+"Andrew, Hill",Production,Everett,48.0522332,-122.2994078,29.31771095
+"Ruth, Ellerbrock",Production,Everett,47.97064232,-122.1527659,22.69871516
+"Barry, Johnson",Production,Snohomish,47.87089177,-121.9393051,18.27495981
+"Sidney, Higa",Production,Edmonds,47.84797454,-122.4722405,21.1313707
+"Jeffrey, Ford",Production,Monroe,47.79863031,-121.8539031,17.04147955
+"Doris, Hartwig",Production,Kenmore,47.69525725,-122.2292833,5.665226565
+"Diane, Glimp",Production,Redmond,47.68229385,-122.130612,2.778969011
+"Bonnie, Kearney",Production,Snohomish,47.79437486,-121.9881443,12.58338813
+"Taylor, Maxwell",Production,Edmonds,47.76672236,-122.1907795,8.960903606
+"Denise, Smith",Production,Kenmore,47.81942633,-122.2415075,13.17910458
+"Frank, Miller",Production,Snohomish,47.87089177,-122.1835012,15.94482027
+"Kendall, Keil",Production,Seattle,47.55102219,-122.4645624,16.57063041
+"Bob, Hohman",Production,Bothell,47.74401398,-122.3723868,13.05128665
+"Pete, Male",Production,Seattle,47.63670828,-122.4400964,14.17490446
+"Diane, Tibbott",Production,Kenmore,47.79554766,-122.1926109,10.90609184
+"John, Campbell",Production,Seattle,47.66527031,-122.1954364,3.171778438
+"Maciej, Dusza",Production,Edmonds,47.79062006,-122.4110533,16.39335568
+"Michael, Zwilling",Production,Edmonds,47.76672236,-122.2030169,9.138155281
+"Randy, Reeves",Production,Edmonds,47.77628144,-122.4355282,16.73242145
+"Karan, Khanna",Production,Seattle,47.66527031,-122.3911644,11.98744553
+"Jay, Adams",Production,Monroe,47.76992817,-121.927052,13.16394101
+"Charles, Fitzgerald",Production,Sammamish,47.65139202,-121.9185091,10.202383
+"Steve, Masters",Production,Seattle,47.6509893,-122.4156304,13.03944801
+"David, Ortiz",Production,Seattle,47.66527031,-122.2688344,6.37261496
+"Michael, Ray",Production,Seattle,47.60338591,-122.2566014,6.214473196
+"Steven, Selikoff",Production,Everett,48.01383749,-122.238307,26.10288462
+"Carole, Poland",Production,Edmonds,47.79062006,-122.2764415,12.14617636
+"Bjorn, Rettig",Production,Seattle,47.67003065,-122.4645624,15.42682298
+"Michiko, Osada",Production,Sammamish,47.66568172,-122.0283456,5.306826503
+"Carol, Philips",Production,Bothell,47.73446327,-122.1402044,6.371169932
+"Merav, Netz",Production,Seattle,47.60814625,-122.3911644,12.11974694
+"Reuben, D'sa",Production,Seattle,47.67479099,-122.4523294,14.90576069
+"Eric, Brown",Production,Duvall,47.69070421,-121.7125872,20.06991354
+"Sandeep, Kaliyath",Production,Sammamish,47.59899645,-121.9185091,10.61768799
+"Mihail, Frintu",Production,Edmonds,47.843195,-122.5334277,23.12137195
+"Jack, Creasey",Production,Seattle,47.64622896,-122.3299994,9.032335763
+"Patrick, Cook",Production,Seattle,47.5653032,-122.3666984,11.99322967
+"Frank, Martinez",Production,Snohomish,47.88045638,-122.0858227,16.62468295
+"Brian, Goldstein",Production,Bothell,47.78221683,-122.1646446,9.756027124
+"Ryan, Cornelsen",Production,Sammamish,47.67520819,-121.9917335,7.135333532
+"Cristian, Petculescu",Production,Seattle,47.61766693,-122.3911644,12.00806239
+"Betsy, Stadick",Production,Bothell,47.76311541,-122.3357264,12.48648244
+"Patrick, Wedge",Production,Bellevue,47.6725191,-122.2651528,6.352600555
+"Danielle, Tiedt",Production,Kenmore,47.74779032,-122.1437143,7.297206842
+"Kimberly, Zimmerman",Production,Seattle,47.63670828,-122.3299994,9.03721114
+"Tom, Vande Velde",Production,Everett,47.95624393,-122.2260868,22.08761637
+"Kok-Ho, Loh",Production,Bellevue,47.64394702,-122.1062875,1.421174959
+"Russell, Hunter",Production,Seattle,47.61766693,-122.3789314,11.44281432
+"Jim, Scardelis",Production,Edmonds,47.73326558,-122.3131538,10.36001135
+"Elizabeth, Keyser",Production,Kent,47.36097034,-122.1477818,19.44078932
+"Mandar, Samant",Production,Duvall,47.77663341,-121.6395085,24.96989027
+"Sameer, Tejani",Production,Duvall,47.81005032,-121.9074638,15.7628263
+"Nuan, Yu",Production,Bellevue,47.67993946,-122.118358,2.738227658
+"Lolan, Song",Production,Edmonds,47.81451776,-122.4477656,18.76017089
+"Houman, Pournasseh",Production,Redmond,47.75382445,-122.0329173,9.098784382
+"Zheng, Mu",Production,Seattle,47.58434456,-122.2566014,6.886954969
+"Ebru, Ersan",Production,Sammamish,47.59899645,-122.1503862,3.058237459
+"Mary, Baker",Production,Seattle,47.61766693,-122.2566014,5.855175962
+"Kevin, Homer",Production,Bellevue,47.61537494,-122.3384752,9.608135699
+"John, Kane",Production,Duvall,47.68593037,-121.6516883,22.83219516
+"Christopher, Hill",Production,Bothell,47.76789076,-122.2257453,9.622196757
+"Jinghao, Liu",Production,Carnation,47.62230331,-121.7556194,17.84587103
+"Alice, Ciccu",Production,Snohomish,47.76568102,-122.2811796,10.86885671
+"Jun, Cao",Production,Redmond,47.6441442,-122.057341,3.703979706
+"Suroor, Fatima",Production,Edmonds,47.7476042,-122.3009164,10.56756521
+"John, Evans",Production,Seattle,47.64622896,-122.4400964,14.17103226
+"Linda, Moschell",Production,Bellevue,47.65347105,-122.240712,4.92039964
+"Mindaugas, Krapauskas",Production,Edmonds,47.86231316,-122.3253913,17.56264388
+"Angela, Barbariol",Production,Edmonds,47.7953996,-122.4355282,17.4958326
+"Michael, Patten",Production,Edmonds,47.8192973,-122.5334277,22.1730467
+"Chad, Niswonger",Production,Bothell,47.71536184,-122.0302232,7.08105762
+"Don, Hall",Production,Carnation,47.71285813,-121.9018871,11.98899338
+"Michael, Entin",Production,Redmond,47.68229385,-122.0084936,6.588353082
+"Kitti, Lertpiriyasuwat",Production,Seattle,47.57958422,-122.2199024,5.821830449
+"Pilar, Ackerman",Shipping and Receiving,Seattle,47.57958422,-122.2566014,7.083328297
+"Susan, Eaton",Shipping and Receiving,Renton,47.40789645,-122.2255676,16.71830403
+"Vamsi, Kuppa",Shipping and Receiving,Bothell,47.6867097,-122.2501855,6.124693777
+"Kim, Ralls",Shipping and Receiving,Bothell,47.70103577,-122.0913238,4.577004852
+"Matthias, Berndt",Shipping and Receiving,Renton,47.49806162,-122.2011274,10.40942548
+"Jimmy, Bischoff",Shipping and Receiving,Renton,47.46958841,-122.262228,13.2977441
+"David, Hamilton",Production,Kenmore,47.76689326,-122.3270766,12.36948446
+"Paul, Komosinski",Production,Bellevue,47.61537494,-122.1551691,2.050283304
+"Gary, Yukish",Production,Edmonds,47.78106098,-122.3498662,13.8129313
+"Rob, Caron",Production,Monroe,47.87995304,-122.0489669,16.9207223
+"Baris, Cetinok",Production,Seattle,47.59862557,-122.2688344,6.872294336
+"Nicole, Holliday",Production,Seattle,47.64146862,-122.3299994,9.028786174
+"Michael, Rothkugel",Production,Edmonds,47.7953996,-122.3988159,16.16574427
+"Eric, Gubbels",Production,Edmonds,47.84797454,-122.2152544,14.67595619
+"Ivo, Salmre",Production,Monroe,47.87038566,-122.0611584,16.14702256
+"Sylvester, Valdez",Production,Bellevue,47.66299507,-122.1796099,2.464791248
+"Anibal, Sousa",Production,Redmond,47.7156748,-122.2405186,7.0150468
+"Samantha, Smith",Production,Bellevue,47.67728111,-122.1673895,2.812573312
+"Hung-Fu, Ting",Production,Sammamish,47.60375968,-121.9917335,7.271788196
+"Prasanna, Samarawickrama",Production,Redmond,47.74428703,-122.0329173,8.548118585
+"Min, Su",Production,Bellevue,47.62013695,-122.2895936,7.30540849
+"Olinda, Turner",Production,Bellevue,47.5677548,-122.2529324,7.485649488
+"Krishna, Sunkammurali",Production,Edmonds,47.85753362,-122.4722405,21.58001372
+"Paul, Singh",Production,Bellevue,47.66775709,-122.1185079,1.95306843
+"Cynthia, Randall",Production,Kenmore,47.75734179,-122.1070418,8.068449138
+"Jian Shuo, Wang",Production,Monroe,47.90865518,-121.7929457,24.38988008
+"Sandra, Reátegui Alayo",Production,Seattle,47.66527031,-122.3422324,9.728187181
+"Jason, Watters",Production,Bellevue,47.67728111,-122.0696263,3.953219939
+"Andy, Ruth",Production,Bellevue,47.5677548,-122.3140344,9.757702556
+"Michael, Vanderhyde",Production,Edmonds,47.73326558,-122.5211902,19.00907189
+"Rostislav, Shabalin",Production,Bellevue,47.5677548,-122.2651528,7.909897253
+"Yuhong, Li",Production,Seattle,47.66050997,-122.3299994,9.114456274
+"Hanying, Feng",Production,Redmond,47.69659997,-122.1184002,3.848284156
+"Raymond, Sam",Production,Edmonds,47.75716328,-122.2030169,8.519843278
+"Fadi, Fakhouri",Production,Snohomish,47.88045638,-122.0491933,16.9519294
+"Lane, Sacksteder",Production,Seattle,47.62242727,-122.4767954,15.94447268
+"Linda, Randall",Production,Seattle,47.56054286,-122.2443684,7.56492889
+"Shelley, Dyck",Production,Monroe,47.77471186,-122.0245839,10.53625107
+"Terrence, Earls",Production,Bellevue,47.62966098,-122.1673895,1.680178362
+"Jeff, Hay",Production,Everett,47.93224661,-122.1283255,20.03725406
+"Kirk, Koenigsbauer",Production,Seattle,47.54150151,-122.3666984,12.80944334
+"Laura, Steele",Production,Duvall,47.70502575,-121.7491266,18.59382226
+"Alex, Nayberg",Production,Newport Hills,47.52301259,-122.1344488,8.239921549
+"Andrew, Cencini",Production,Sammamish,47.67520819,-121.9429172,9.323242387
+"Chris, Preston",Production,Seattle,47.72956383,-122.3736072,12.59316062
+"Jack, Richins",Production,Monroe,47.83689983,-122.0977328,13.56772145
+"David, Johnson",Production,Kenmore,47.69048151,-122.3270766,9.491466614
+"Garrett, Young",Production,Snohomish,47.86132716,-122.0980325,15.24020766
+"Susan, Metters",Production,Sammamish,47.65615525,-122.1625902,1.545556272
+"George, Li",Production,Carnation,47.67472978,-122.0115878,6.252075363
+"David, Yalovsky",Production,Seattle,47.63670828,-122.2566014,5.615099362
+"Marc, Ingle",Production,Sammamish,47.59423321,-122.1625902,3.533657757
+"Eugene, Zabokritski",Production,Sammamish,47.69426112,-122.1625902,3.790416464
+"Benjamin, Martin",Production,Snohomish,47.7513341,-122.0125639,9.500084725
+"Reed, Koch",Production,Redmond,47.67752515,-122.1916712,3.539970124
+"David, Lawrence",Production,Monroe,47.80819769,-121.8660946,17.04231046
+"Russell, King",Production,Bellevue,47.63442299,-122.0207447,5.437993623
+"John, Frum",Production,Everett,48.00903803,-122.164986,25.37338526
+"Jan, Miksovsky",Production,Everett,48.04263428,-122.2016465,27.82507163
+"Katie, McAskill-White",Production,Seattle,47.63194794,-122.2321354,4.516453308
+"Michael, Hines",Production,Monroe,47.89430411,-121.8782861,21.16524992
+"Nitin, Mirchandani",Production,Sammamish,47.69902436,-121.894101,11.97714513
+"Barbara, Decker",Production,Sammamish,47.57994351,-122.0649578,5.454692118
+"John, Chen",Production,Duvall,47.71934728,-121.8587447,14.01548871
+"Stefen, Hesse",Production,Duvall,47.79095494,-121.9683627,12.92497717
+"Shane, Kim",Production,Bellevue,47.67728111,-122.0207447,5.924730827
+"Yvonne, McKay",Production,Everett,48.01863696,-122.1283255,26.00511753
+"Douglas, Hite",Production,Carnation,47.7319223,-121.8653202,14.09047358
+"Janeth, Esteves",Production,Monroe,47.88952042,-122.0367754,17.70346281
+"Robert, Rounthwaite",Production,Seattle,47.58434456,-122.4523294,15.28161241
+"Lionel, Penuchot",Production,Seattle,47.67479099,-122.2688344,6.567024775
+"Brenda, Diaz",Production,Seattle,47.59590075,-122.4376513,14.42136588
+"Alejandro, McGuel",Production,Seattle,47.67003065,-122.1587374,2.177654235
+"Fred, Northup",Production,Snohomish,47.80872178,-122.2445502,12.55168974
+"Kevin, Liu",Production,Seattle,47.59386523,-122.3666984,11.25533339
+"Shammi, Mohamed",Production,Bellevue,47.55346876,-122.1673895,6.301400178
+"Rajesh, Patel",Production,Edmonds,47.78106098,-122.288679,11.92485395
+"Lorraine, Nay",Production,Edmonds,47.82885638,-122.2030169,13.2565718
+"Paula, Nartker",Production,Seattle,47.6271876,-122.2810674,6.824960004
+"Frank, Lee",Production,Seattle,47.58434456,-122.3422324,10.40545258
+"Brian, Lloyd",Production,Snohomish,47.87567408,-122.1835012,16.27216066
+"Tawana, Nusbaum",Production,Seattle,47.62242727,-122.2810674,6.883164474
+"Ken, Myer",Production,Everett,48.06183213,-122.3238482,30.26588119
+"Gabe, Mares",Production,Edmonds,47.78584052,-122.3621036,14.45340001
+"Lori, Kane",Production,Redmond,47.62506938,-122.0451291,4.434926656
+"Stuart, Munson",Production,Bellevue,47.6725191,-122.1307283,2.107509584
+"Greg, Alderson",Production,Bellevue,47.64394702,-122.0207447,5.411610647
+"Scott, Gode",Production,Seattle,47.67479099,-122.3055334,8.197589336
+"Kathie, Flood",Production,Everett,48.0666316,-122.1772062,29.37890861
+"Belinda, Newman",Production,Bothell,47.70581113,-122.3601667,11.31668654
+"Hazem, Abolrous",Quality Assurance,Kenmore,47.8146506,-122.204835,12.32605422
+"Peng, Wu",Quality Assurance,Bothell,47.78221683,-122.0424433,10.61877614
+"Sootha, Charncherngkha",Quality Assurance,Kenmore,47.69048151,-122.3148524,8.959496091
+"Andreas, Berglund",Quality Assurance,Renton,47.49331609,-122.1155866,10.33777194
+"Mark, Harrington",Quality Assurance,Issaquah,47.54922476,-122.1503441,6.460314135
+"Sean, Alexander",Quality Assurance,Renton,47.42687859,-122.0911464,15.03198107
+"Zainal, Arifin",Document Control,Issaquah,47.43995989,-122.003954,15.29291088
+"Tengiz, Kharatishvili",Document Control,Issaquah,47.50646894,-122.1747424,9.549926506
+"Sean, Chai",Document Control,Issaquah,47.50646894,-122.1381449,9.382473051
+"Karen, Berge",Document Control,Index,47.8485846,-121.6633382,26.2590876
+"Chris, Norred",Document Control,Issaquah,47.48746635,-122.0405515,11.60015225
+"A. Scott, Wright",Production Control,Newport Hills,47.56105763,-122.0123022,8.076439482
+"Sairaj, Uddin",Production Control,Redmond,47.65845032,-122.0817647,2.794251218
+"William, Vong",Production Control,Bellevue,47.67728111,-122.362916,10.83522701
+"Alan, Brewer",Production Control,Kenmore,47.7859962,-122.3515249,14.10625152
+"Brian, LaMee",Production Control,Everett,48.01383749,-122.2627473,26.33270282
+"Gary, Altman",Facilities and Maintenance,Renton,47.5217893,-122.1033665,8.467743044
+"Christian, Kleinerman",Facilities and Maintenance,Gold Bar,47.75343279,-121.4979324,30.76263292
+"Lori, Penor",Facilities and Maintenance,Index,47.77207277,-121.6147166,25.93700208
+"Stuart, Macrae",Facilities and Maintenance,Renton,47.44586074,-122.2500079,14.56893781
+"Jo, Berry",Facilities and Maintenance,Index,47.81032868,-121.6633382,24.93066376
+"Pat, Coleman",Facilities and Maintenance,Gold Bar,47.83950085,-121.5100932,32.22033654
+"Magnus, Hedlund",Facilities and Maintenance,Renton,47.42213306,-122.1889073,15.40392229
+"Laura, Norman",Executive,Renton,47.44586074,-122.1033665,13.65816678
+"Paula, Barreto de Mattos",Human Resources,Bellevue,47.68680514,-122.2895936,7.773631083
+"Grant, Culbertson",Human Resources,Gold Bar,47.81559306,-121.4614502,33.67237502
+"Hao, Chen",Human Resources,Issaquah,47.48271571,-122.1015474,11.14455491
+"Vidur, Luthra",Human Resources,Newport Hills,47.53252385,-122.0978048,7.796288796
+"Mindy, Martin",Human Resources,Newport Hills,47.56105763,-122.1466635,5.630522072
+"Willis, Johnson",Human Resources,Everett,47.9994391,-122.1772062,24.74799647
+"David, Liu",Finance,Gold Bar,47.84906397,-121.656022,26.56376544
+"Deborah, Poe",Finance,Everett,48.00228906,-122.3397815,26.60837059
+"Candy, Spoon",Finance,Index,47.82467465,-121.3959196,36.75091832
+"Bryan, Walton",Finance,Newport Hills,47.62763645,-122.2199515,4.020265232
+"Barbara, Moreland",Finance,Seattle,47.55102219,-122.2566014,8.436607034
+"Dragan, Tomic",Finance,Gold Bar,47.8108115,-121.704665,23.25981285
+"Janet, Sheperdigian",Finance,Sammamish,47.57041704,-121.9307132,10.82592403
+"Mike, Seamans",Finance,Index,47.81032868,-121.7362706,21.97922722
+"Wendy, Kahn",Finance,Sammamish,47.61328615,-122.2114064,4.025921971
+"Sheela, Word",Purchasing,Sammamish,47.64662878,-122.0039375,6.202225286
+"Mikael, Sandberg",Purchasing,Bothell,47.73923863,-122.3357264,11.45118809
+"Arvind, Rao",Purchasing,Renton,47.46958841,-122.1644671,12.00090933
+"Linda, Meisner",Purchasing,Bellevue,47.58204084,-122.301814,8.767484835
+"Fukiko, Ogisu",Purchasing,Bellevue,47.58680285,-122.2895936,8.108580989
+"Gordon, Hee",Purchasing,Bellevue,47.58680285,-122.301814,8.615891539
+"Frank, Pellow",Purchasing,Renton,47.42213306,-122.0911464,15.35660165
+"Eric, Kurjan",Purchasing,Renton,47.52653483,-122.2744481,10.26812284
+"Erin, Hagens",Purchasing,Bellevue,47.66299507,-122.2284916,4.520935486
+"Ben, Miller",Purchasing,Redmond,47.65368161,-121.9352226,9.435405036
+"Annette, Hill",Purchasing,Redmond,47.69659997,-122.0939765,4.248181506
+"Reinout, Hillmann",Purchasing,Bellevue,47.61537494,-122.0207447,5.722050332
+"David, Barber",Finance,Newport Hills,47.56581326,-122.2443808,7.297406612
+"Jean, Trenary",Information Services,Redmond,47.7156748,-122.1794594,5.450536329
+"Stephanie, Conroy",Information Services,Issaquah,47.50171829,-122.0893482,9.958789337
+"Ashvini, Sharma",Information Services,Issaquah,47.48271571,-121.8819622,16.2270383
+"Peter, Connelly",Information Services,Issaquah,47.51597024,-122.077149,9.158050076
+"Karen, Berg",Information Services,Issaquah,47.44471053,-122.0893482,13.82673952
+"Ramesh, Meyyappan",Information Services,Issaquah,47.46371312,-122.1381449,12.33616211
+"Dan, Bacon",Information Services,Issaquah,47.47321441,-122.1015474,11.79421133
+"François, Ajenstat",Information Services,Issaquah,47.47321441,-121.9429581,14.77968117
+"Dan, Wilson",Information Services,Bellevue,47.6010889,-122.1062875,3.178712975
+"Janaina, Bueno",Information Services,Issaquah,47.52547153,-121.8819622,14.38077102
+"Brian, Welcker",Sales,Issaquah,47.51121959,-121.8087672,17.80123258
+"Stephen, Jiang",Sales,Redmond,47.66321903,-122.0817647,2.941445738
+"Michael, Blythe",Sales,Detroit,42.37900582,-83.14839305,1922.94446
+"Linda, Mitchell",Sales,Nevada,41.25232563,-111.911601,670.1356053
+"Jillian, Carson",Sales,Duluth,46.80339018,-92.07347509,1407.134124
+"Garrett, Vargas",Sales,Calgary,51.110937,-113.898549,441.9159281
+"Tsvi, Reiter",Sales,Memphis,35.1727653,-90.15995372,1852.695166
+"Pamela, Ansman-Wolfe",Sales,Portland,45.52417416,-122.6223012,148.1204624
+"Shu, Ito",Sales,San Francisco,37.7605893,-122.4084896,682.2360268
+"José, Saraiva",Sales,Ottawa,45.31258786,-75.35088306,2204.212133
+"David, Campbell",Sales,Bellevue,47.64394702,-122.1185079,0.853765274
+"Tete, Mensa-Annan",Sales,Cambridge,42.34298767,-71.18035184,2477.814526
+"Syed, Abbas",Sales,Bothell,47.76311541,-122.2746258,10.54114886
+"Lynn, Tsoflias",Sales,Melbourne,-37.80138597,144.9633475,8189.711438
+"Amy, Alberts",Sales,Renton,47.46484288,-122.1889073,12.49939899
+"Rachel, Valdez",Sales,Berlin,52.56363118,13.30492452,5048.461786
+"Jae, Pak",Sales,Cambridge,51.19104669,-2.62062559,4741.623166
+"Ranjit, Varkey Chudukatil",Sales,Bordeaux,44.77126523,-0.603646308,5149.383198
